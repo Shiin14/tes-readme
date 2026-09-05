@@ -1,16 +1,18 @@
 <div align="center">
-# 🩺 BumilFit
-
-> **Personal Pregnancy Companion for Healthy Mother & Stunting-Free Generation**
-
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/BrezaMedico/bumilfit)
-[![Category](https://img.shields.io/badge/Category-ITechnoCup%202026-blue?style=for-the-badge)](https://github.com/BrezaMedico/bumilfit)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-**Submission ITechnoCup 2026 – Web Development**
-
-**By VIOLET**
+  
+  # BumilFit 
+  ### Personal Pregnancy Companion for Healthy Mother & Stunting-Free Generation
+  
+  [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge)](https://[sesuaikan_URL_DEMO])
+  [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/BrezaMedico)
+  [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+  
+  **Submission for ITECHNO CUP 2026 - Web Development**
+  
+  **By VIOLET**
+  
 </div>
+
 ---
 
 ## 📑 Daftar Isi
