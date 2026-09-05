@@ -98,20 +98,6 @@ BumilFit dikembangkan dengan tujuan untuk:
 6. Mendukung upaya pencegahan stunting sejak masa kehamilan.
 7. Menghubungkan pengguna dengan layanan konsultasi dokter dan produk kesehatan.
 
-### Sustainable Development Goals (SDGs)
-
-#### SDG 8 — Decent Work and Economic Growth
-
-BumilFit dapat mendukung ekosistem ekonomi digital melalui keterlibatan UMKM, apotek lokal, penyedia produk kesehatan, serta layanan pengiriman atau kurir.
-
-#### SDG 9 — Industry, Innovation and Infrastructure
-
-BumilFit memanfaatkan teknologi digital dalam bidang HealthTech melalui fitur seperti smart reminder, kalkulator EDD, kalkulator gizi, AI, serta transaksi produk kesehatan secara online.
-
-#### SDG 11 — Sustainable Cities and Communities
-
-BumilFit berupaya menyediakan layanan kesehatan digital yang lebih mudah diakses oleh ibu hamil dan keluarga.
-
 ---
 
 # ✨ Fitur Unggulan
@@ -153,14 +139,6 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 | **Pro** | Konsultasi dokter gratis selama 1 bulan |
 | **Premium** | Konsultasi dokter gratis selama 3 bulan + cek gizi menggunakan kamera/upload foto |
 | **Premium+** | Konsultasi dokter gratis selama 9 bulan + cek gizi menggunakan kamera/upload foto |
-
-### Model Monetisasi
-
-Pendapatan BumilFit dapat berasal dari:
-
-- Komisi transaksi pembelian TTD, vitamin, suplemen, dan produk kesehatan melalui partner.
-- Biaya layanan/platform yang berkaitan dengan proses logistik atau pengiriman.
-- Pendapatan dari paket subscription/premium.
 
 ---
 
@@ -257,37 +235,22 @@ Pendapatan BumilFit dapat berasal dari:
 
 ## Alasan Pemilihan Teknologi
 
-### React + TypeScript
+| Teknologi | Alasan Pemilihan |
+|-----------|------------------|
+| **React + TypeScript** | Digunakan untuk membangun antarmuka yang modular, interaktif, dan lebih mudah dipelihara dengan dukungan type safety dari TypeScript. |
+| **Vite** | Digunakan sebagai build tool karena menyediakan development environment yang cepat dan proses build yang efisien. |
+| **Tailwind CSS** | Digunakan untuk mempercepat proses pengembangan UI serta membantu membuat tampilan yang responsive dan konsisten. |
+| **Node.js + Express.js** | Digunakan untuk membangun backend dan RESTful API yang menangani proses autentikasi, data pengguna, transaksi, serta komunikasi dengan database. |
+| **PostgreSQL + Neon** | Digunakan sebagai database relasional untuk menyimpan data pengguna, profil kehamilan, aktivitas, transaksi, dan data aplikasi lainnya. |
+| **Prisma ORM** | Digunakan untuk mempermudah pengelolaan database dan interaksi antara backend dengan PostgreSQL. |
+| **Zustand** | Digunakan untuk mengelola state global aplikasi, termasuk state yang berkaitan dengan shopping cart. |
+| **Google Gemini API** | Digunakan untuk mendukung fitur berbasis AI seperti AI Chatbot dan analisis informasi gizi. |
+| **Axios** | Digunakan untuk mempermudah komunikasi antara frontend dan backend melalui HTTP request. |
+| **Zod** | Digunakan untuk melakukan validasi data agar input pengguna sesuai dengan format yang telah ditentukan. |
+| **Lucide React** | Digunakan sebagai library ikon untuk meningkatkan tampilan dan konsistensi antarmuka aplikasi. |
+| **JSON Web Token (JWT)** | Digunakan untuk mendukung autentikasi berbasis token dan pengelolaan sesi pengguna. |
+| **BCrypt** | Digunakan untuk melakukan password hashing sebelum password disimpan ke database. |
 
-Digunakan untuk membangun antarmuka yang modular, interaktif, dan lebih mudah dipelihara dengan dukungan type safety dari TypeScript.
-
-### Vite
-
-Digunakan sebagai build tool karena menyediakan development environment yang cepat dan proses build yang efisien.
-
-### Tailwind CSS
-
-Digunakan untuk mempercepat proses pengembangan UI serta membantu membuat tampilan yang responsive.
-
-### Node.js + Express.js
-
-Digunakan untuk membangun backend dan RESTful API yang menangani proses autentikasi, data pengguna, transaksi, serta komunikasi dengan database.
-
-### PostgreSQL + Neon
-
-Digunakan sebagai database relasional untuk menyimpan data pengguna, profil kehamilan, aktivitas, transaksi, dan data aplikasi lainnya.
-
-### Prisma ORM
-
-Digunakan untuk mempermudah pengelolaan database dan interaksi antara backend dengan PostgreSQL.
-
-### Zustand
-
-Digunakan untuk mengelola state global aplikasi, termasuk state yang berkaitan dengan shopping cart.
-
-### Google Gemini API
-
-Digunakan untuk mendukung fitur berbasis AI seperti AI Chatbot dan analisis informasi gizi.
 
 ## Dependencies Utama
 ```
