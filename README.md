@@ -354,7 +354,7 @@ Digunakan untuk mendukung fitur berbasis AI seperti AI Chatbot dan analisis info
 │  Activities / Orders         │
 │  Application Data            │
 └──────────────────────────────┘
-
+```
 External Services:
 ├── Google Gemini API
 └── WhatsApp Notification Service
