@@ -1,3 +1,4 @@
+<div align="center">
 # 🩺 BumilFit
 
 > **Personal Pregnancy Companion for Healthy Mother & Stunting-Free Generation**
@@ -9,10 +10,7 @@
 **Submission ITechnoCup 2026 – Web Development**
 
 **By VIOLET**
-
-**GitHub Repository:** https://github.com/BrezaMedico/bumilfit  
-**Live Demo:** [Sesuaikan dengan link demo yang sudah di-hosting]
-
+</div>
 ---
 
 ## 📑 Daftar Isi
