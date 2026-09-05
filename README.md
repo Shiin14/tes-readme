@@ -245,7 +245,6 @@ Pendapatan BumilFit dapat berasal dari:
 | Zod | Data validation |
 | Git | Version control |
 | GitHub | Repository dan collaboration |
-| Vercel / Render | Deployment dan hosting |
 
 ## DevOps & Tools
 
@@ -290,7 +289,7 @@ Digunakan untuk mengelola state global aplikasi, termasuk state yang berkaitan d
 Digunakan untuk mendukung fitur berbasis AI seperti AI Chatbot dan analisis informasi gizi.
 
 ## Dependencies Utama
-
+```
 { 
     "dependencies": {
         "react": "^x.x.x",
@@ -308,6 +307,7 @@ Digunakan untuk mendukung fitur berbasis AI seperti AI Chatbot dan analisis info
     }
  } 
 [x.xx.sesuaikan dengan versi]
+```
 ---
 
 # 🏗️ Arsitektur Sistem
