@@ -148,10 +148,10 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 
 | Paket | Benefit |
 |---|---|
-| **Weekly Basic** | Konsultasi dokter gratis selama 1 minggu |
-| **One Month Pro** | Konsultasi dokter gratis selama 1 bulan |
-| **Three Month Premium** | Konsultasi dokter gratis selama 3 bulan + cek gizi menggunakan kamera/upload foto |
-| **Pregnancy-long Premium+** | Konsultasi dokter gratis selama 9 bulan + cek gizi menggunakan kamera/upload foto |
+| **WBasic** | Konsultasi dokter gratis selama 1 minggu |
+| **Pro** | Konsultasi dokter gratis selama 1 bulan |
+| **Premium** | Konsultasi dokter gratis selama 3 bulan + cek gizi menggunakan kamera/upload foto |
+| **Premium+** | Konsultasi dokter gratis selama 9 bulan + cek gizi menggunakan kamera/upload foto |
 
 ### Model Monetisasi
 
