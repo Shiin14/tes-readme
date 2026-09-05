@@ -254,23 +254,23 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 
 ## Dependencies Utama
 ```
-{ 
-    "dependencies": {
-        "react": "^x.x.x",
-        "typescript": "^x.x.x",
-        "vite": "^x.x.x",
-        "tailwindcss": "^x.x.x",
-        "zustand": "^x.x.x",
-        "axios": "^x.x.x",
-        "zod": "^x.x.x",
-        "lucide-react": "^x.x.x", 
-        "express": "^x.x.x",
-        "prisma": "^x.x.x",
-        "jsonwebtoken": "^x.x.x", 
-        "bcrypt": "^x.x.x" 
-    }
- } 
-[x.xx.sesuaikan dengan versi]
+{
+  "dependencies": {
+    "react": "^19.2.8",
+    "typescript": "~7.0.2",
+    "vite": "^8.2.0",
+    "tailwindcss": "^4.3.3",
+    "zustand": "^5.0.15",
+    "axios": "^1.19.0",
+    "zod": "^4.4.3",
+    "lucide-react": "^1.33.0",
+    "express": "^5.2.1",
+    "prisma": "^7.9.1",
+    "jsonwebtoken": "^9.0.3",
+    "bcrypt": "^6.0.0"
+  }
+}
+
 ```
 ---
 
