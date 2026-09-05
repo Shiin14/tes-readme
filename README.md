@@ -235,7 +235,6 @@ Pendapatan BumilFit dapat berasal dari:
 
 | Teknologi | Penggunaan |
 |---|---|
-| PostgreSQL | Database utama aplikasi |
 | Neon PostgreSQL | Cloud PostgreSQL database |
 
 ### Supporting Tools
