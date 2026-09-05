@@ -35,7 +35,6 @@
 - [⚙️ Instalasi & Setup](#️-instalasi--setup)
 - [🚀 Penggunaan](#-penggunaan)
 - [📚 API Documentation](#-api-documentation)
-- [🧪 Testing](#-testing)
 - [📄 Lisensi](#-lisensi)
 
 ---
