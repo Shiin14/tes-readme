@@ -319,11 +319,12 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 │  Application Data            │
 └──────────────────────────────┘
 ```
+```
 External Services:
 ├── Google Gemini API
 └── WhatsApp Notification Service
     └── [Sesuaikan dengan service/API WhatsApp yang benar-benar digunakan]
-
+```
 ---
 
 ## Database Schema
