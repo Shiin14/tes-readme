@@ -124,9 +124,7 @@ BumilFit berupaya menyediakan layanan kesehatan digital yang lebih mudah diakses
 | 🥗 **Kalkulator Gizi** | Membantu menghitung kebutuhan nutrisi harian pengguna selama masa kehamilan. |
 | 📸 **Cek Gizi** | Membantu pengguna memperoleh informasi mengenai kandungan gizi makanan atau minuman melalui upload foto atau pemindaian menggunakan kamera. |
 | 👨‍⚕️ **Konsultasi Dokter** | Menyediakan akses untuk melakukan konsultasi dengan dokter. |
-| 🛒 **Health Product Checkout** | Memungkinkan pengguna memilih dan melakukan checkout produk kesehatan seperti vitamin, suplemen, dan obat. |
 | 🤖 **AI Chatbot** | Membantu memberikan informasi umum seputar kehamilan dan kesehatan menggunakan teknologi AI. |
-| 📱 **WhatsApp Reminder** | Mengirimkan pengingat aktivitas kesehatan melalui WhatsApp. |
 
 > **Catatan:** Informasi dari AI Chatbot bersifat umum dan tidak menggantikan diagnosis maupun konsultasi langsung dengan tenaga kesehatan.
 
