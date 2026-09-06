@@ -139,37 +139,25 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 
 **URL:** [Sesuaikan dengan link demo yang sudah di-hosting]
 
-## Screenshot Aplikasi
+### Screenshot Aplikasi
 
-### Halaman Utama
+<div align="center">
+  <img src="[Sesuaikan dengan URL atau path screenshot Homepage]" alt="Homepage" width="800"/>
+  <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
-![Homepage](assets/screenshots/homepage.png)
+  <img src="[Sesuaikan dengan URL atau path screenshot Dashboard]" alt="Dashboard" width="800"/>
+  <p><em>Dashboard - Panel kontrol pengguna</em></p>
 
-[Sesuaikan dengan path screenshot Homepage yang digunakan pada repository]
+  <img src="[Sesuaikan dengan URL atau path screenshot Smart Health Reminder]" alt="Smart Health Reminder" width="800"/>
+  <p><em>Smart Health Reminder - To-Do List untuk aktivitas kesehatan ibu hamil</em></p>
 
+  <img src="[Sesuaikan dengan URL atau path screenshot Kalkulator Gizi & Cek Gizi]" alt="Kalkulator Gizi & Cek Gizi" width="800"/>
+  <p><em>Kalkulator Gizi & Cek Gizi - Fitur untuk membantu pengguna memahami kebutuhan dan kandungan gizi</em></p>
 
-### Smart Health Reminder
+  <img src="[Sesuaikan dengan URL atau path screenshot Konsultasi Dokter]" alt="Konsultasi Dokter" width="800"/>
+  <p><em>Konsultasi Dokter - Fitur untuk mengakses layanan konsultasi kesehatan</em></p>
+</div>
 
-![Smart Health Reminder](assets/screenshots/reminder.png)
-
-[Sesuaikan dengan path screenshot Smart Health Reminder yang digunakan pada repository]
-
-
-### Kalkulator Gizi & Cek Gizi
-
-![Nutrition Calculator](assets/screenshots/nutrition-calculator.png)
-
-[Sesuaikan dengan path screenshot Kalkulator Gizi yang digunakan pada repository]
-
-### Konsultasi Dokter
-
-![Doctor Consultation](assets/screenshots/doctor-consultation.png)
-
-[Sesuaikan dengan path screenshot Konsultasi Dokter yang digunakan pada repository]
-
-## Video Demo
-
-**Video Demo:** [Sesuaikan dengan link video demo yang sudah di-upload]
 
 ---
 
@@ -310,12 +298,6 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 │  Application Data            │
 └──────────────────────────────┘
 ```
-```
-External Services:
-├── Google Gemini API
-└── WhatsApp Notification Service
-    └── [Sesuaikan dengan service/API WhatsApp yang benar-benar digunakan]
-```
 ---
 
 ## Database Schema
@@ -424,9 +406,6 @@ Salin template dari `frontend/.env.example` ke `frontend/.env`:
 ```env
 VITE_GEMINI_API_KEY="your-gemini-api-key-here"
 ```
-
-
-> **Penting:** Jangan commit file `.env` yang berisi API key, password, JWT secret, atau credential lainnya ke repository.
 
 
 ### 5. Setup Prisma
