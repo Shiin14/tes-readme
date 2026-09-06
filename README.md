@@ -550,43 +550,59 @@ Pengguna dapat memilih paket premium sesuai kebutuhan:
 
 # 📚 API Documentation
 
-## Base URL
-
-### Development
+### Base URL
 
 ~~~text
-http://localhost:5000
+Development: [Sesuaikan dengan Base URL API development]
+Production: [Sesuaikan dengan domain API production]/api
 ~~~
 
-### Production
+### Endpoints
 
-~~~text
-[Sesuaikan dengan Base URL API production yang digunakan]
+#### Authentication
+
+~~~http
+POST /api/auth/register
+POST /api/auth/login
+POST /api/auth/logout
+GET  /api/auth/me
 ~~~
 
-## API Endpoints
+#### [Sesuaikan dengan Resource 1]
 
-> Daftar endpoint detail belum tersedia pada dokumentasi yang diberikan. Isi tabel berikut berdasarkan route backend yang benar-benar digunakan.
-
-| Method | Endpoint | Description | Authentication |
-|---|---|---|---|
-| [Sesuaikan] | [Sesuaikan] | [Sesuaikan] | [Sesuaikan] |
-| [Sesuaikan] | [Sesuaikan] | [Sesuaikan] | [Sesuaikan] |
-| [Sesuaikan] | [Sesuaikan] | [Sesuaikan] | [Sesuaikan] |
-| [Sesuaikan] | [Sesuaikan] | [Sesuaikan] | [Sesuaikan] |
+~~~http
+GET    /api/[resource]        # Get all
+GET    /api/[resource]/:id    # Get by ID
+POST   /api/[resource]        # Create
+PUT    /api/[resource]/:id    # Update
+DELETE /api/[resource]/:id    # Delete
+~~~
 
 ## Example Request
 
-~~~text
-[Sesuaikan dengan endpoint API yang benar-benar digunakan]
+~~~javascript
+// Get Daily Todos
+const response = await fetch('/api/todo/daily', {
+  method: 'GET',
+  headers: {
+    'Authorization': 'Bearer YOUR_JWT_TOKEN'
+  }
+});
 ~~~
 
-Contoh format:
-
-~~~json
-{
-  "[Sesuaikan dengan field API]": "[Sesuaikan dengan value]"
-}
+~~~javascript
+// Complete / Toggle Todo
+const response = await fetch('/api/todo/complete', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Authorization': 'Bearer YOUR_JWT_TOKEN'
+  },
+  body: JSON.stringify({
+    masterTodoId: 'TODO_MASTER_ID',
+    isCompleted: true
+  })
+});
 ~~~
 
 ---
