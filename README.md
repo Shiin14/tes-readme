@@ -212,7 +212,7 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 |---|---|
 | Version Control | Git & GitHub |
 | Deployment | Vercel / Render |
-| CI/CD | [Sesuaikan dengan CI/CD yang benar-benar digunakan] |
+| CI/CD | **Monorepo + GitHub** dengan deployment otomatis. **Frontend (Vercel)** melakukan build menggunakan `npm run build` dan otomatis deploy saat terdapat commit/push ke branch `main`. **Backend (Render)** melakukan build menggunakan `npm install && npx prisma generate && npm run build`, kemudian menjalankan `npm run start`. **Database (Neon PostgreSQL)** menggunakan Prisma ORM untuk sinkronisasi skema melalui `npx prisma db push`. |
 
 ## Alasan Pemilihan Teknologi
 
