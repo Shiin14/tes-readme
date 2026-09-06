@@ -304,20 +304,13 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 
 ## Database Schema
 
-> **Catatan:** Detail ERD/database schema belum tersedia pada dokumentasi yang diberikan.
+Database BumilFit menggunakan **PostgreSQL** dengan **Prisma ORM** sebagai ORM untuk mengelola struktur dan relasi data.
 
-~~~text
-User
- │
- ├── Profile
- │
- ├── Activities
- │
- └── Orders
+Diagram database:
 
-[Sesuaikan dengan relasi tabel dan model Prisma yang benar-benar digunakan]
-~~~
+![Database Schema]( [Sesuaikan dengan path atau URL ERD database BumilFit] )
 
+> **Catatan:** Diagram di atas menggambarkan struktur tabel, atribut, primary key (PK), foreign key (FK), serta relasi antar-entitas yang digunakan dalam aplikasi BumilFit.
 
 ## Folder Structure
 
