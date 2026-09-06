@@ -144,9 +144,6 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
   <img src="[Sesuaikan dengan URL atau path screenshot Homepage]" alt="Homepage" width="800"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
-  <img src="[Sesuaikan dengan URL atau path screenshot Dashboard]" alt="Dashboard" width="800"/>
-  <p><em>Dashboard - Panel kontrol pengguna</em></p>
-
   <img src="[Sesuaikan dengan URL atau path screenshot Smart Health Reminder]" alt="Smart Health Reminder" width="800"/>
   <p><em>Smart Health Reminder - To-Do List untuk aktivitas kesehatan ibu hamil</em></p>
 
@@ -155,6 +152,12 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 
   <img src="[Sesuaikan dengan URL atau path screenshot Konsultasi Dokter]" alt="Konsultasi Dokter" width="800"/>
   <p><em>Konsultasi Dokter - Fitur untuk mengakses layanan konsultasi kesehatan</em></p>
+
+  <img src="[Sesuaikan dengan URL atau path screenshot Komunitas]" alt="Komunitas" width="800"/>
+  <p><em>Komunitas - Ruang interaksi dan berbagi informasi bagi ibu hamil</em></p>
+
+  <img src="[Sesuaikan dengan URL atau path screenshot Pembelian Obat]" alt="Pembelian Obat" width="800"/>
+  <p><em>Pembelian Obat - Halaman untuk memilih dan membeli produk kesehatan seperti obat, vitamin, dan suplemen</em></p>
 </div>
 
 
