@@ -642,7 +642,7 @@ Developed for **ITechnoCup 2026 – Web Development**
 
 **Email:** [bumilfit@gmail.com](mailto:bumilfit@gmail.com)
 
-**Website:** bumilfit.vercel.app
+**Website:** [bumilfit.vercel.app](https://bumilfit.vercel.app)
 
 ---
 
