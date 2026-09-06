@@ -104,14 +104,14 @@ BumilFit dikembangkan dengan tujuan untuk:
 
 ## Fitur Utama
 
-| Fitur | Deskripsi |
-|---|---|
-| 📝 **Smart Health Reminder** | To-Do List untuk membantu pengguna mencatat dan menyelesaikan aktivitas kesehatan seperti konsumsi TTD, vitamin, suplemen, minum air, olahraga ringan, dan pemeriksaan ANC. |
-| 🤰 **Kalkulator Kehamilan & EDD** | Menampilkan usia kehamilan dan Estimated Due Date (EDD) berdasarkan usia kehamilan yang dimasukkan pengguna saat melakukan registrasi. |
-| 🥗 **Kalkulator Gizi** | Membantu menghitung kebutuhan nutrisi harian pengguna selama masa kehamilan. |
-| 📸 **Cek Gizi** | Membantu pengguna memperoleh informasi mengenai kandungan gizi makanan atau minuman melalui upload foto atau pemindaian menggunakan kamera. |
-| 👨‍⚕️ **Konsultasi Dokter** | Menyediakan akses untuk melakukan konsultasi dengan dokter. |
-| 🤖 **AI Chatbot** | Membantu memberikan informasi umum seputar kehamilan dan kesehatan menggunakan teknologi AI. |
+| Fitur | Deskripsi | Keunggulan |
+|---|---|---|
+| 📝 **Smart Health Reminder** | To-Do List yang membantu pengguna mengatur dan menyelesaikan aktivitas kesehatan selama kehamilan, seperti konsumsi TTD, vitamin, suplemen, minum air, olahraga ringan, dan pemeriksaan ANC. | Membantu pengguna lebih konsisten menjalankan aktivitas kesehatan harian melalui sistem pengingat dan pencatatan aktivitas. |
+| 🤰 **Kalkulator Kehamilan & EDD** | Menampilkan usia kehamilan dan Estimated Due Date (EDD) berdasarkan usia kehamilan yang dimasukkan pengguna saat registrasi. | Memberikan informasi perkembangan kehamilan dan perkiraan waktu persalinan secara praktis dalam satu aplikasi. |
+| 🥗 **Kalkulator Gizi** | Membantu pengguna menghitung kebutuhan nutrisi harian selama masa kehamilan. | Membantu pengguna memahami kebutuhan nutrisi harian sebagai bagian dari penerapan pola hidup sehat selama kehamilan. |
+| 📸 **Cek Gizi** | Membantu pengguna memperoleh informasi mengenai kandungan gizi makanan atau minuman melalui upload foto atau pemindaian menggunakan kamera. | Mempermudah pengguna mendapatkan informasi gizi makanan secara praktis dengan memanfaatkan teknologi analisis berbasis AI. |
+| 👨‍⚕️ **Konsultasi Dokter** | Menyediakan akses bagi pengguna untuk melakukan konsultasi dengan dokter melalui aplikasi. | Memudahkan pengguna mendapatkan akses konsultasi kesehatan tanpa harus berpindah ke platform lain. |
+| 🤖 **AI Chatbot** | Membantu memberikan informasi umum seputar kehamilan dan kesehatan menggunakan teknologi AI. | Memberikan akses informasi secara interaktif dan cepat sebagai pendamping informasi kesehatan pengguna.|
 
 > **Catatan:** Informasi dari AI Chatbot bersifat umum dan tidak menggantikan diagnosis maupun konsultasi langsung dengan tenaga kesehatan.
 
