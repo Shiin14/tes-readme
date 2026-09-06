@@ -3,7 +3,7 @@
   # BumilFit 
   ### Personal Pregnancy Companion for Healthy Mother & Stunting-Free Generation
   
-  [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge)](https://[sesuaikan_URL_DEMO])
+  [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge)](bumilfit.vercel.app)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/BrezaMedico/bumilfit)
   [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
   
@@ -137,8 +137,7 @@ BumilFit menggunakan model monetisasi **Hybrid Monetization**, yaitu kombinasi a
 
 ## Live Demo
 
-**URL:** [Sesuaikan dengan link demo yang sudah di-hosting]
-
+**URL:** bumilfit.vercel.app
 ### Screenshot Aplikasi
 
 <div align="center">
@@ -643,7 +642,7 @@ Developed for **ITechnoCup 2026 – Web Development**
 
 **Email:** [bumilfit@gmail.com](mailto:bumilfit@gmail.com)
 
-**Website:** [Sesuaikan dengan website resmi BumilFit jika tersedia]
+**Website:** bumilfit.vercel.app
 
 ---
 
