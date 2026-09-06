@@ -84,7 +84,7 @@ Pendekatan BumilFit tidak hanya berfokus pada penyediaan informasi, tetapi juga 
 
 Dengan pendekatan tersebut, BumilFit diharapkan dapat membantu meningkatkan kesadaran dan keteraturan ibu hamil dalam menjaga kesehatan serta **berkontribusi dalam upaya pencegahan stunting sejak masa kehamilan**.
 
-### Tujuan Proyek
+## Tujuan Proyek
 
 - 🎯 **Tujuan Utama**: Membantu ibu hamil menerapkan pola hidup sehat, memenuhi kebutuhan nutrisi harian, serta memantau berbagai aktivitas kesehatan selama masa kehamilan secara lebih terarah.
 - 📊 **Target Pengguna**: Ibu hamil yang membutuhkan pendamping digital untuk membantu memantau aktivitas kesehatan, kebutuhan nutrisi, informasi kehamilan, konsultasi dokter, dan akses produk kesehatan.
