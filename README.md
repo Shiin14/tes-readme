@@ -68,36 +68,27 @@ Berdasarkan permasalahan tersebut, dibutuhkan sebuah platform digital yang dapat
 
 ## Solusi yang Ditawarkan
 
-**BumilFit** merupakan aplikasi web yang dirancang sebagai **personal pregnancy companion** untuk membantu ibu hamil menjalani masa kehamilan dengan lebih terarah.
+**BumilFit** menawarkan pendekatan sebagai **personal pregnancy companion** yang mengintegrasikan berbagai kebutuhan ibu hamil ke dalam satu platform digital.
 
-BumilFit menyediakan berbagai fitur seperti:
+Solusi yang diberikan meliputi:
 
-- Smart Health Reminder berbasis To-Do List.
-- Pengingat konsumsi TTD, vitamin, dan suplemen.
-- Pengingat minum air dan aktivitas olahraga ringan.
-- Pengingat pemeriksaan kehamilan atau ANC.
-- Kalkulator kehamilan dan Estimated Due Date (EDD).
-- Kalkulator kebutuhan gizi harian.
-- Cek kandungan gizi makanan/minuman melalui foto atau kamera.
-- Konsultasi dengan dokter.
-- Pembelian produk kesehatan seperti vitamin, suplemen, dan obat melalui aplikasi.
-- Notifikasi pengingat melalui WhatsApp.
-- AI Chatbot untuk memberikan informasi umum seputar kehamilan dan kesehatan.
+- **Smart Health Reminder** berbasis To-Do List untuk membantu pengguna lebih teratur menjalankan aktivitas kesehatan seperti konsumsi TTD, vitamin, suplemen, hidrasi, olahraga ringan, dan pemeriksaan ANC.
+- **Kalkulator Kehamilan & EDD** untuk memberikan informasi usia kehamilan dan perkiraan tanggal persalinan berdasarkan data usia kehamilan saat registrasi.
+- **Kalkulator Gizi dan Cek Gizi** untuk membantu pengguna memahami kebutuhan nutrisi harian serta memperoleh informasi kandungan gizi makanan melalui foto atau kamera.
+- **AI Chatbot** sebagai pendamping informasi umum seputar kehamilan dan kesehatan secara interaktif.
+- **Konsultasi Dokter** untuk memberikan akses yang lebih mudah kepada pengguna dalam memperoleh layanan konsultasi kesehatan.
+- **Health Product Marketplace** yang memungkinkan pengguna memilih dan membeli produk kesehatan seperti vitamin, suplemen, dan kebutuhan kehamilan.
+- **WhatsApp Reminder** untuk membantu menyampaikan pengingat aktivitas kesehatan kepada pengguna melalui WhatsApp.
 
-BumilFit diharapkan dapat **berkontribusi dalam upaya pencegahan stunting sejak masa kehamilan** dengan membantu meningkatkan kesadaran dan keteraturan ibu hamil dalam menjaga kesehatan serta memenuhi kebutuhan nutrisi.
+Pendekatan BumilFit tidak hanya berfokus pada penyediaan informasi, tetapi juga mendorong pengguna untuk **mengubah informasi menjadi tindakan nyata** melalui pengingat, pencatatan aktivitas, pemantauan kebutuhan nutrisi, dan akses layanan kesehatan dalam satu ekosistem.
 
-## Tujuan Proyek
+Dengan pendekatan tersebut, BumilFit diharapkan dapat membantu meningkatkan kesadaran dan keteraturan ibu hamil dalam menjaga kesehatan serta **berkontribusi dalam upaya pencegahan stunting sejak masa kehamilan**.
 
-BumilFit dikembangkan dengan tujuan untuk:
+### Tujuan Proyek
 
-1. Membantu ibu hamil menerapkan pola hidup sehat dan memenuhi kebutuhan nutrisi harian secara lebih terarah.
-2. Membantu mengingatkan berbagai aktivitas kesehatan selama kehamilan.
-3. Membantu ibu hamil memantau konsumsi TTD, vitamin, suplemen, air, dan aktivitas fisik ringan.
-4. Membantu ibu hamil mengetahui usia kehamilan dan perkiraan tanggal persalinan (EDD).
-5. Memberikan akses informasi kesehatan dan nutrisi yang lebih mudah.
-6. Mendukung upaya pencegahan stunting sejak masa kehamilan.
-7. Menghubungkan pengguna dengan layanan konsultasi dokter dan produk kesehatan.
-
+- 🎯 **Tujuan Utama**: Membantu ibu hamil menerapkan pola hidup sehat, memenuhi kebutuhan nutrisi harian, serta memantau berbagai aktivitas kesehatan selama masa kehamilan secara lebih terarah.
+- 📊 **Target Pengguna**: Ibu hamil yang membutuhkan pendamping digital untuk membantu memantau aktivitas kesehatan, kebutuhan nutrisi, informasi kehamilan, konsultasi dokter, dan akses produk kesehatan.
+- 💡 **Value Proposition**: Menghadirkan pendamping kehamilan dalam satu platform yang menggabungkan Smart Health Reminder, kalkulator kehamilan dan EDD, kalkulator gizi, Cek Gizi berbasis AI, AI Chatbot, konsultasi dokter, serta akses produk kesehatan untuk mendukung kesehatan ibu dan berkontribusi pada upaya pencegahan stunting sejak masa kehamilan.
 ---
 
 # ✨ Fitur Unggulan
